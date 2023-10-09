@@ -1,4 +1,9 @@
 .header{
     text-align: center;
-    color: purple;
+    color: blue;
+}
+
+div{
+    border-style: dotted;
+    border-color: green;
 }
