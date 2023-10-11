@@ -6,10 +6,10 @@
 
 .header{
     color: blue;
-    font-family: Spectral;
 }
 
 .div1{
+    font-family: Spectral;
     margin: 5vw;
     border-style: line;
     border-color: green;
