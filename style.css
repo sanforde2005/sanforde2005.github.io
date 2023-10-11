@@ -1,12 +1,12 @@
 @font-face{
-    font-family: 'Spectral';
+    font-family: Spectral;
     src: url(Fonts/Spectral-Regular.ttf)
 }
 
 
 .header{
     color: blue;
-    font-family: 'Spectral';
+    font-family: Spectral;
 }
 
 div{
