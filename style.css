@@ -10,6 +10,7 @@
 }
 
 div{
+    margin: 5vw;
     border-style: line;
     border-color: green;
 }
