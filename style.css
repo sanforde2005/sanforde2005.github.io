@@ -13,3 +13,7 @@
     margin: 5vw;
 
 }
+
+::selection {
+    background: green;
+}
