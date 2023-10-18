@@ -7,11 +7,11 @@ body{
     background-color: lightgreen;
 }
 
-.header{
+h2{
     color: #483D03;
 }
 
-.about{
+div{
     font-family: Spectral;
     margin: 5vw;
 
