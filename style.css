@@ -17,6 +17,10 @@ div{
 
 }
 
+img{
+    width: 10vw;
+}
+
 ::selection {
     background: lightpink;
  
