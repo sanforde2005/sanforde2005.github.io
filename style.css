@@ -3,6 +3,9 @@
     src: url(Fonts/Spectral-Regular.ttf)
 }
 
+.HompageBody{
+    background: lightgreen;
+}
 
 .header{
     color: #483D03;
@@ -16,5 +19,5 @@
 
 ::selection {
     background: lightpink;
-    
+ 
 }
