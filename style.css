@@ -4,7 +4,6 @@
 }
 
 .HompageBody{
-    font-family: Spectral;
     background-color: lightgreen;
 }
 
@@ -13,6 +12,7 @@
 }
 
 .about{
+    font-family: Spectral;
     margin: 5vw;
 
 }
