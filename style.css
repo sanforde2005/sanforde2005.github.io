@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: linear_gradient(#c8f66f, #9481a6);
+    background-image: linear-gradient(#c8f66f, #9481a6);
 }
 
 h2{
