@@ -11976,15 +11976,3 @@ textarea.form-control-lg {
     display: none !important;
   }
 }/*# sourceMappingURL=custom.css.map */
-
-
-@font-face {
-  font-family: Lusitana;
-  src: "Fonts/Lusitana-Regular.ttf";
-}
-
-
-body{
-    margin: 10vw;
-    font-family: Lusitana;
-}
