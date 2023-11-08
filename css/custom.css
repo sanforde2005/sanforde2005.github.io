@@ -11979,12 +11979,12 @@ textarea.form-control-lg {
 
 
 @font-face {
-  font-family: Spectral;
-  src: "Fonts/Spectral-Regular.ttf";
+  font-family: Lusitana;
+  src: "Fonts/Lusitana-Regular.ttf";
 }
 
 
 body{
     margin: 10vw;
-    font-family: Spectral;
+    font-family: Lusitana;
 }
