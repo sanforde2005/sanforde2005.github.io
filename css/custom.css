@@ -11978,3 +11978,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }/*# sourceMappingURL=custom.css.map */
+
+.galleryIMG{
+  display:grid;
+  grid-template-columns: auto auto auto;
+}
